@@ -1,0 +1,39 @@
+{
+  "name": "portmarks-bookmarklet",
+  "version": "1.0.0",
+  "description": "Portmarks Bookmarklet - Creates and downloads portable HTML bookmark files for web pages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurelitec/portmarks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aurelitec/portmarks/issues"
+  },
+  "homepage": "https://www.aurelitec.com/portmarks/",
+  "type": "module",
+  "scripts": {
+    "clean:dist:files": "rm -rf dist/files/*",
+    "clean:dist:release": "rm -rf dist/release/*",
+    "clean": "npm run clean:dist:files && npm run clean:dist:release",
+    "build": "npm run clean:dist:files && node scripts/build.js",
+    "release": "npm run clean:dist:release && zip -j -9 dist/release/portmarks-bookmarklet-1.0.0.zip dist/files/*"
+  },
+  "keywords": [
+    "bookmarklet",
+    "bookmark",
+    "html",
+    "portable",
+    "redirect",
+    "browser",
+    "offline",
+    "web"
+  ],
+  "author": "Aurelitec",
+  "license": "MIT",
+  "devDependencies": {
+    "terser": "^5.43.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
