@@ -14,7 +14,7 @@
 
 ## Quick Start
 
-1. Download the [Portmarks bookmarklet](https://github.com/aurelitec/portmarks/releases) from GitHub Releases and unzip it.
+1. Download the [Portmarks bookmarklet](https://github.com/aurelitec/Portmarks/releases/latest/download/portmarks-bookmarklet-1.0.0.zip) from GitHub Releases and unzip it.
 2. Open the `install.html` file in your browser.
 3. Drag the **Portmarks** button to your bookmarks bar.
 4. Click the bookmarklet on any page to download a portable bookmark file.
@@ -27,12 +27,6 @@
 ## Coming Soon
 
 Portmarks will also be available as a browser extension.
-
-## Learn More
-
-- Website: [aurelitec.com/portmarks](https://www.aurelitec.com/portmarks/)
-- Source: [github.com/aurelitec/portmarks](https://github.com/aurelitec/portmarks)
-- Support: [aurelitec.com/support](https://www.aurelitec.com/support/)
 
 ## Support Us!
 
