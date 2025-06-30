@@ -30,6 +30,6 @@
   <img src="repo-assets/east-tec-product-boxes.png" alt="East-Tec product boxes" width="400">
 </a>
 
-Portmarks is free and open source because it's supported by [East-Tec](https://www.east-tec.com/), developers of innovative and award-winning privacy and security products and solutions since 1997. [Try east-Tec Eraser](https://www.east-tec.com/eraser/) and the other East-Tec products to protect your privacy and keep your data secure.
+Portmarks is free and open source because it's supported by [East-Tec](https://www.east-tec.com/), developers of innovative and award-winning privacy and security products and solutions since 1997. Try the East-Tec products to protect your privacy and keep your data secure.
 
-**While Portmarks helps you save the sites you want to remember, east-tec Eraser helps you forget the ones you don't want anyone to know about.**
+**While Portmarks helps you save the sites you want to remember, [east-tec Eraser](https://www.east-tec.com/eraser/) helps you forget the ones you don't want anyone to know about.**
