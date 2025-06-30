@@ -24,13 +24,15 @@
 - `bookmarklet/` — Source code and install files for the Portmarks bookmarklet.
 - `bookmarklet/dist/` — Distribution files and release ZIPs (after building).
 
+## License
+
+Portmarks is a free, open-source project by **Aurelitec**, released under the [MIT License](LICENSE).
+
 ## Support Us!
 
-Portmarks is a free, open-source project by **Aurelitec**.
+We can offer our apps for free because we are supported by our partners at [East-Tec](https://www.east-tec.com/), developers of award-winning privacy and security software since 1997. You can support us by trying their products.
 
-We can offer our apps for free because we are supported by our partners at [East-Tec](https://www.east-tec.com/), developers of award-winning privacy and security software since 1997. If you find Portmarks useful, please consider supporting us by trying out their products.
-
-**While Portmarks helps you save the sites you want to remember, [east-tec Eraser](https://www.east-tec.com/eraser/) helps you forget the ones you don't.**
+**While Portmarks helps you save the sites you want to remember, [east-tec Eraser](https://www.east-tec.com/eraser/) helps you forget the ones you don't want anyone to know about.**
 
 <a href="https://www.east-tec.com/">
   <img src="repo-assets/east-tec-product-boxes.png" alt="East-Tec product boxes" width="300">
