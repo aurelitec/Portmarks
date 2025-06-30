@@ -24,14 +24,12 @@
 - `bookmarklet/` — Source code and install files for the Portmarks bookmarklet.
 - `bookmarklet/dist/` — Distribution files and release ZIPs (after building).
 
-## Coming Soon
-
-Portmarks will also be available as a browser extension.
-
 ## Support Us!
 
-Portmarks is free and open source because it's supported by [East-Tec](https://www.east-tec.com/), makers of innovative and award-winning privacy and security products and solutions since 1997.
+<a href="https://www.east-tec.com/">
+  <img src="repo-assets/east-tec-product-boxes.png" alt="East-Tec product boxes" width="400">
+</a>
 
-[Try east-Tec Eraser](https://www.east-tec.com/eraser/) to protect your privacy and keep your data secure.
+Portmarks is free and open source because it's supported by [East-Tec](https://www.east-tec.com/), developers of innovative and award-winning privacy and security products and solutions since 1997. [Try east-Tec Eraser](https://www.east-tec.com/eraser/) and the other East-Tec products to protect your privacy and keep your data secure.
 
 **While Portmarks helps you save the sites you want to remember, east-tec Eraser helps you forget the ones you don't want anyone to know about.**
