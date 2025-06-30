@@ -8,9 +8,21 @@
 
 **Portmarks** lets you create portable HTML bookmark files for any web page. Your bookmarks work everywhere—no browser sync, no cloud dependency, just tiny files you own. Free and open source.
 
-- **Universal:** Bookmarks are simple HTML files that redirect to your saved page. Use them on any device or platform.
-- **Private:** No cloud, no tracking, no account required. You own your bookmarks.
-- **Bookmarklet:** Portmarks is a bookmarklet that works in any modern browser and it's easy to install. Just drag the button to your bookmarks bar!
+- **Own Your Data:** Bookmarks are saved as local HTML files. You have complete control, with no cloud dependency, tracking, or accounts.
+- **Universal & Portable:** Works in any browser on any OS. Organize your bookmarks in folders, sync them via cloud storage, or share them anywhere.
+- **Simple & Private:** Installs as a lightweight bookmarklet that runs entirely in your browser. The process is completely offline and private by design.
+
+## The Portable Bookmark File
+
+Portmarks generates a minimal HTML file with a `.portmark.html` extension. This dual extension ensures it's recognized as a standard HTML file by your system while also indicating its origin from Portmarks.
+
+The core design principle is to be as tiny and universal as possible. The entire file is a single line of HTML, containing only the essential `meta` refresh tag needed to redirect your browser.
+
+Here is an example for `https://example.com`:
+
+```html
+<html><head><meta http-equiv="refresh" content="0;url=https://example.com/" /></head><body></body></html>
+```
 
 ## Quick Start
 
@@ -23,6 +35,35 @@
 
 - `bookmarklet/` — Source code and install files for the Portmarks bookmarklet.
 - `bookmarklet/dist/` — Distribution files and release ZIPs (after building).
+
+## Building from Source
+
+If you want to modify the bookmarklet or build it yourself, follow these steps:
+
+1.  Clone the repository:
+    ```sh
+    git clone https://github.com/aurelitec/Portmarks.git
+    ```
+2.  Navigate to the `bookmarklet` directory:
+    ```sh
+    cd Portmarks/bookmarklet
+    ```
+3.  Install the development dependencies:
+    ```sh
+    npm install
+    ```
+4.  Run the build script:
+    ```sh
+    npm run build
+    ```
+
+The distributable files will be generated in the `bookmarklet/dist/files` directory.
+
+## Contributing
+
+Contributions are welcome! If you have a suggestion or find a bug, please [open an issue](https://github.com/aurelitec/Portmarks/issues).
+
+If you'd like to contribute code, please fork the repository and submit a pull request.
 
 ## License
 
