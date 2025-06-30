@@ -26,10 +26,12 @@
 
 ## Support Us!
 
+Portmarks is a free, open-source project by **Aurelitec**.
+
+We can offer our apps for free because we are supported by our partners at [East-Tec](https://www.east-tec.com/), developers of award-winning privacy and security software since 1997. If you find Portmarks useful, please consider supporting us by trying out their products.
+
+**While Portmarks helps you save the sites you want to remember, [east-tec Eraser](https://www.east-tec.com/eraser/) helps you forget the ones you don't.**
+
 <a href="https://www.east-tec.com/">
-  <img src="repo-assets/east-tec-product-boxes.png" alt="East-Tec product boxes" width="400">
+  <img src="repo-assets/east-tec-product-boxes.png" alt="East-Tec product boxes" width="300">
 </a>
-
-Portmarks is free and open source because it's supported by [East-Tec](https://www.east-tec.com/), developers of innovative and award-winning privacy and security products and solutions since 1997. Try the East-Tec products to protect your privacy and keep your data secure.
-
-**While Portmarks helps you save the sites you want to remember, [east-tec Eraser](https://www.east-tec.com/eraser/) helps you forget the ones you don't want anyone to know about.**
